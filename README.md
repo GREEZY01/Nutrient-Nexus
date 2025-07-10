@@ -8,6 +8,7 @@ It is a kitchen themed platfomer - the goal of the game is to 👀:
   -   serve the food
   -  complete all levels with a high enough score to pass
 
+pages link: https://greezy01.github.io/Nutrient-Nexus-/
 
 the code is very messy and not at all optimised 😁😁😁
 I wont be working on the game anymore.
