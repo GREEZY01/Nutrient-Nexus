@@ -11,5 +11,6 @@ It is a kitchen themed platfomer - the goal of the game is to 👀:
 
 the code is very messy and not at all optimised 😁😁😁
 I wont be working on the game anymore.
+This project scored me the highest grade!!
 
 here is the asset list: https://docs.google.com/spreadsheets/d/1DCaKpcZtU4b7eFyZ1_o_Hi04v6Pvcs16Z0E7aHXdNqQ/edit?usp=sharing (not the best a bit lazy)
